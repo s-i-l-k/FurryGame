@@ -1,2 +1,1 @@
-#Furry Game
-Simple game in JavaScript
+Furry Game - Simple game in JavaScript
